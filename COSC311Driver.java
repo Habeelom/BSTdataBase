@@ -1,9 +1,3 @@
-/* Omar Habeel
-   E02659531
-   Program #3
-   Version 1
-   11/17/2024
-   */
 
 package assignment3;
 
